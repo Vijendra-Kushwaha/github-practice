@@ -1,2 +1,2 @@
 # github-practice
-Just learning the basics of GitHub and cyber security 
+Just learning the fundamentals of GitHub and cyber security 
